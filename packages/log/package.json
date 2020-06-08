@@ -9,6 +9,6 @@
     "license": "MIT",
     "gitHead": "c697113adf1cb4b345de8d545d09c6b3f002792b",
     "dependencies": {
-        "@openland/context": "^0.4.0"
+        "@openland/context": "*"
     }
 }
